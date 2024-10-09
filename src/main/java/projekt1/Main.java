@@ -10,7 +10,7 @@ public class Main extends JFrame {
     private Point endPoint;
 
     public Main() {
-        setTitle("Line Drawing");
+        setTitle("PROJEKT1_PGRF1_2024");
         setSize(900, 600);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
